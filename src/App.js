@@ -8,7 +8,7 @@ function App() {
       <h1>
         Todo App List App by{' '}
         <a
-          href="https://github.com/ayisrhmn"
+          href="https://github.com/ayisrhmn/todo-list-app"
           target="_blank"
           style={{color: 'white'}}>
           Ayisrhmn
